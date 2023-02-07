@@ -1,0 +1,31 @@
+.friends{
+ display:flexbox;
+ width: 100%;
+ margin: 5px;
+ margin-top: 200px;
+ justify-content: space-between;
+ padding: 10px;
+
+}
+
+
+.h4 {
+    color: rgb(67, 67, 102);
+    width: 200px;
+    margin: 15px;
+   
+   
+}
+
+
+
+.friendsName img {
+    width: 50px;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+
+
+
+
